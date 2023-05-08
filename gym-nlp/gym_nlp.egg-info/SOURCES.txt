@@ -1,0 +1,10 @@
+README.md
+setup.py
+gym_nlp/__init__.py
+gym_nlp.egg-info/PKG-INFO
+gym_nlp.egg-info/SOURCES.txt
+gym_nlp.egg-info/dependency_links.txt
+gym_nlp.egg-info/requires.txt
+gym_nlp.egg-info/top_level.txt
+gym_nlp/envs/__init__.py
+gym_nlp/envs/nlp_env.py
